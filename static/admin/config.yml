@@ -1,6 +1,7 @@
 backend:
   name: github
-  branch: jchamleunsouk/gatsby-somsanouk
+  branch: master
+  repo: jchamleunsouk/gatsby-somsanouk
 
 media_folder: static/assets
 public_folder: assets
